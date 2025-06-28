@@ -1,1 +1,3 @@
 # checkin-pawt
+to get token for .env file you can access on site and inspect elemen search file user and on headres scrol u can find authorization
+Bearer like : eyJhbGciO..............
